@@ -23,8 +23,8 @@ def index() -> rx.Component:
                 size="5",
             ),
             rx.link(
-                rx.button("Check out our docs!"),
-                href="https://reflex.dev/docs/getting-started/introduction/",
+                rx.button("Mira mi página web!"),
+                href="https://hernanespinozadev.website/",
                 is_external=True,
             ),
             spacing="5",
