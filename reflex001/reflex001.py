@@ -23,7 +23,7 @@ def index() -> rx.Component:
                 size="5",
             ),
             rx.link(
-                rx.button("Mira mi página web!"),
+                rx.button("Mira mi página web :3!"),
                 href="https://hernanespinozadev.website/",
                 is_external=True,
             ),
